@@ -9,6 +9,6 @@ There are two datasets, one is for RF signal recognition and another is for twit
 
 # Run the model
 For each task, when run the model:
-          python MDCC.py
+          `python MDCC.py`
           
           
