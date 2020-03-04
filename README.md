@@ -11,4 +11,6 @@ There are two datasets, one is for RF signal recognition and another is for twit
 For each task, when run the model:
           `python MDCC.py`
           
-          
+The training procedure, testing procedure, and ealuating procedure are self-contained in the `MDCC.py` file.         
+
+You are welcom to connect me regarding any confusions about the codes.
